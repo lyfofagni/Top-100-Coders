@@ -2,7 +2,7 @@
 
 ### About Me
 
-> Myself Agnivesh PS from Trivadrum. I'm a B.Tech Computer Science Student at Mar Baselios College of Engineering and Technology here in Trivandrum. I'm basically a designers and like to learn more about Python Full Stack Development.
+> Myself Agnivesh PS from Trivadrum. I'm a B.Tech Computer Science Student at Mar Baselios College of Engineering and Technology here in Trivandrum. I'm a designers and like to learn more about Python Full Stack Development.
 
 
 ### Portfolio Highlights
@@ -10,7 +10,7 @@
 
 #### History of Open Source Contributions:
 
-- I currently don't have anu Open Source contributions but I would like to do some in the near future.
+- I currently don't have anu Open Source contributions but I would like to do some shortly.
 
 #### History of Community Engagement:
 
@@ -51,7 +51,3 @@
 #### Profile Card:
 
 - https://app.mulearn.org/profile/agniveshps-1@mulearn
-
-> In your portfolio, include the following details:
-
----
