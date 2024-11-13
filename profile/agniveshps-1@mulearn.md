@@ -50,8 +50,6 @@
 
 #### Profile Card:
 
-- https://app.mulearn.org/profile/agniveshps-1@mulearn
-
 <img
     src="https://mulearn.org/embed/rank/agniveshps-1@mulearn"
     width="400px">
